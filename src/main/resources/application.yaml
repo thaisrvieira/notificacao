@@ -2,8 +2,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username:
-    password:
+    username: thaisvieira.dev@gmail.com
+    password: tsqn xqnv kooa dtkm
     protocol: smtp
     properties:
       mail:
@@ -23,7 +23,7 @@ spring:
 
 envio:
   email:
-    remetente:
+    remetente: thaisvieira.dev@gmail.com
     nomeRemetente: 'Javanauta'
 
 server:

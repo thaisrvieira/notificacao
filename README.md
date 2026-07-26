@@ -6,9 +6,9 @@ Microsserviço responsável pelo envio de notificações por e-mail para os usu�
 
 Este serviço faz parte de uma aplicação distribuída em arquitetura de microsserviços, composta por:
 
-- [**BFF**](#) — orquestra as chamadas para os demais serviços
-- [**Usuário**](#) — gerenciamento de usuários, autenticação e endereços
-- [**Agendador de Tarefas**](#) — CRUD de tarefas agendadas
+- [**BFF**](https://github.com/thaisrvieira/bff-agendador-tarefas) — orquestra as chamadas para os demais serviços
+- [**Usuário**](https://github.com/thaisrvieira/usuario) — gerenciamento de usuários, autenticação e endereços
+- [**Agendador de Tarefas**](https://github.com/thaisrvieira/agendador-tarefas) — CRUD de tarefas agendadas
 - **Notificação** (este repositório) — envio de e-mails de notificação
 
 ## 🚀 Tecnologias utilizadas

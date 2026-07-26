@@ -24,7 +24,7 @@ spring:
 envio:
   email:
     remetente:
-    nomeRemetente: 'Javanauta'
+    nomeRemetente: 'Agendador de Tarefas'
 
 server:
   port: 8082
